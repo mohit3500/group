@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import NavLink from '../navlinks/navLinks';
+import NavLink from '../navlinks/NavLinks';
 import { AiOutlineMenu } from 'react-icons/ai';
 import { CgClose } from 'react-icons/cg';
 import BodyScrollLock from '../BodyScrollLock';
