@@ -1,4 +1,4 @@
-import NavLink from '../navlinks/navLinks';
+import NavLink from '../navlinks/NavLinks';
 import './navbar.css';
 
 const NavBar = () => {
